@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="BB2CF8C8-C745-4BB3-9824-607E8049124D" version="0">
+	<info>
+		<title>2022-07-09 Malola Education Online Exam-08 EAMCET</title>
+		<description/>
+	</info>
+	<files index="id27" thumbnail="id23" totalSize="6928523">
+		<file id="id0">data/apple-touch-icon.png</file>
+		<file id="id1">data/browsersupport.js</file>
+		<file id="id2">data/favicon.ico</file>
+		<file id="id3">data/fonts/fnt0.woff</file>
+		<file id="id4">data/fonts/fnt1.woff</file>
+		<file id="id5">data/fonts/fnt2.woff</file>
+		<file id="id6">data/fonts/fnt3.woff</file>
+		<file id="id7">data/fonts/fnt4.woff</file>
+		<file id="id8">data/fonts/fnt5.woff</file>
+		<file id="id9">data/html5-unsupported.html</file>
+		<file id="id10">data/html5.png</file>
+		<file id="id11">data/images/img-1f191f1b28965f1835cf08928e7d6d93d1ae69ea.jpg</file>
+		<file id="id12">data/images/img-2e44471fb843f973c35e194223e905928f2d9ad1.jpg</file>
+		<file id="id13">data/images/img-6730a739389f52be1ea687ec8fdf47bab82cfb7f.jpg</file>
+		<file id="id14">data/images/img-750ca87fb0662aadb6673e069a427290be87e89a.jpg</file>
+		<file id="id15">data/images/img-7662e0cc2c1c671d70a95df7989f2748f9218f68.jpg</file>
+		<file id="id16">data/images/img-77335b41ae1e64dba3a28fa1f94c2fdeb1737bfa.jpg</file>
+		<file id="id17">data/images/img-96d2f619edaea1b49a4b6b6ff3e6c4d71bcd367f.jpg</file>
+		<file id="id18">data/images/img-ac7a56727e07bafec200f21b055ac37f77bb0520.jpg</file>
+		<file id="id19">data/images/img-ba8d098cd311ca0083815dab42cd3418c0681466.jpg</file>
+		<file id="id20">data/images/img-f661db9188760f96ff8e81e0629d8b9f2d42263b.jpg</file>
+		<file id="id21">data/ismplayer/app_store2x.png</file>
+		<file id="id22">data/ismplayer/play.svg</file>
+		<file id="id23">data/ismplayer/preview.png</file>
+		<file id="id24">data/ismplayer/style.css</file>
+		<file id="id25">data/ismplayer/style_mini.css</file>
+		<file id="id26">data/player.js</file>
+		<file id="id27">index.html</file>
+		<file id="id28">ismplayer.html</file>
+		<file id="id29">preview.png</file>
+	</files>
+</presentation>
+
